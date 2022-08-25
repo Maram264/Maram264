@@ -1,0 +1,60 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-image: url(./images\ \(14\).jpg);
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+.image-me{
+display: inline-block;
+width: 25rem;
+border: 1rem rgb(88, 78, 78) solid ;
+border-radius: 50%;
+margin-left: 3%;
+
+}
+
+.name-me{
+    text-align:center;
+    color: rgb(88, 78, 78);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+h2{
+    display: inline-block;
+    color: rgb(230, 86, 208);
+
+}
+p{
+display: inline-block;
+font-size: 18px;
+
+}
+.paragraph1{
+margin-right: 45rem;
+
+}
+
+
+.right-side{
+    float: left;
+    margin-top: -550px;
+    margin-left: 50rem;
+}
+
+
+.btn{
+    display: inline-block;
+    border:.2rem solid white;
+    color:blue;
+    font-size: 1.5rem;
+    border-radius: .5rem;
+    position: relative;
+
+  
+    
+  
+}
